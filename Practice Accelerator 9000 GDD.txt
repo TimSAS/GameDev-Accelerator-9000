@@ -1,0 +1,17 @@
+Practice Accelerator 9000
+
+Tool that helps with deciding what to work on/practice, to create your new project & improve in your gamedev skills
+
+Categories I might want to have:
+-Genre
+-Focus On (art, level design, game mechanics, story, visual effects, )
+-Adjective
+-Noun
+-Verb
+-Number
+
+Functionality:
+-random all
+-reset all
+-random individual parameter
+-reset individual parameter
